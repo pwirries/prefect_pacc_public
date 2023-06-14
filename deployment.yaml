@@ -6,7 +6,7 @@ deployments:
   schedule: {}
   flow_name: null
   entrypoint: null
-  parameters: {}
+  parameters: {"lat": 22, "long": 50}
   work_pool:
     name: null
     work_queue_name: null
